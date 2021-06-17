@@ -1,0 +1,3 @@
+- Edx course from NYUx, part 2 of Micro bachelor
+- part 1 was Basics of Computing and Programming FCS.PRG.1
+- Introduction to networking, FCS.NET.1
